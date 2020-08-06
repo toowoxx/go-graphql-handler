@@ -16,7 +16,7 @@ import (
 	"github.com/graphql-go/graphql/gqlerrors"
 	"github.com/graphql-go/graphql/language/location"
 	"github.com/graphql-go/graphql/testutil"
-	"github.com/graphql-go/handler"
+	"git.toowoxx.de/foss/go/go-graphql-handler"
 )
 
 func decodeResponse(t *testing.T, recorder *httptest.ResponseRecorder) *graphql.Result {

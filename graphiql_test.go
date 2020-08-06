@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/graphql-go/graphql/testutil"
-	"github.com/graphql-go/handler"
+	"git.toowoxx.de/foss/go/go-graphql-handler"
 )
 
 func TestRenderGraphiQL(t *testing.T) {
