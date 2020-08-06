@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/graphql-go/graphql/testutil"
+	"git.toowoxx.de/foss/go/go-graphql/testutil"
 )
 
 func TestRequestOptions_GET_BasicQueryString(t *testing.T) {
