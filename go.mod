@@ -1,3 +1,3 @@
-module github.com/graphql-go/handler
+module github.com/toowoxx/go-graphql-handler
 
 go 1.14
