@@ -7,11 +7,11 @@ import (
 	"net/url"
 	"strings"
 
-	"git.toowoxx.de/foss/go/go-graphql"
+	"github.com/toowoxx/go-graphql"
 
 	"context"
 
-	"git.toowoxx.de/foss/go/go-graphql/gqlerrors"
+	"github.com/toowoxx/go-graphql/gqlerrors"
 )
 
 const (

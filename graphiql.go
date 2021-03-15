@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"net/http"
 
-	"git.toowoxx.de/foss/go/go-graphql"
+	"github.com/toowoxx/go-graphql"
 )
 
 // graphiqlData is the page data structure of the rendered GraphiQL page
